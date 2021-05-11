@@ -2,7 +2,7 @@
 From tomcat:8-jre8
 
 # Maintainer
-MAINTAINER "valaxytech@gmail.com"
+MAINTAINER "Thippeswamy"
 
 # copy war file on to container
-COPY ./webapp.war /usr/local/tomcat/webapps
+COPY ./target/webapp.war /usr/local/tomcat/webapps
