@@ -5,6 +5,6 @@
    </head>
    <body style="background-color:orange;">
       <h1>Hello from Swamy</h1>
-      <h1>Deployment to docker node using pipeline script</h1>
+      <h1>Deployment to docker node using Jenkins pipeline script</h1>
    </body>
 </html>
